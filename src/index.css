@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* h1 {
+color:darksalmon;
+border-radius: 5%;
+background-color: aquamarine;
+padding: 60px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+this is of Digital IT
+div{
+  /* height:100%;
+  width: 100vh; */
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: center; */
+/* } */ 
+
+/* this one is of Events */
+div{                     
+  width:auto;
+  height:100vh;
+}  
+
+/* This is for Forms.jsx */
+/* button{
+  background-color: rgb(120, 29, 120);
+  border-radius: 5px;
+  padding: 2px;
+  color:white;
+  margin-top: 20px;
+  border: 2px solid white;
+} */
+
+/* This is for Login Forms.jsx */
+button{
+  background-color: rgb(131, 207, 131);
+  border-radius: 5px;
+  padding: 2px;
+  margin-top: 50px;
+  border: 2px solid white;
+  height: 50px;
+  width:400px;
+  color: black;
+}
+h1{
+  color: black;
+  /* text-shadow: rgb(120, 29, 120); */
+  font-family: 'Times New Roman', Times, serif;
+  /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+}
+input{
+  height: 50px;
+  width:400px;
+  border-radius: 5px;
+  background-color:whitesmoke;
+}
+.ad{
+  background-color:rgb(167, 195, 159);
+  /* 1 rem=16px */
+  width:35rem; 
+  height:35rem;
+  padding:10px;
+  /* margin:20px 300px;
+  
+  border-radius: 10px;
+  /* width:100%;
+  height:100vh;
+  display:flex;
+  align-items: center;
+  justify-content: center; */
+
+}
+p{
+  text-align: right;
+  color:black;
+  font-style: oblique;
+  padding-right: 55px;
+}
+.container{
+  width:100vw;
+  height:100vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+h2{
+  color:antiquewhite;
+}
+
