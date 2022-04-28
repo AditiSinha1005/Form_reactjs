@@ -60,6 +60,10 @@ h1{
   /* text-shadow: rgb(120, 29, 120); */
   font-family: 'Times New Roman', Times, serif;
   /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+  height: 100px;
+  overflow-y: scroll;
+  
+  
 }
 input{
   height: 50px;
@@ -68,11 +72,13 @@ input{
   background-color:whitesmoke;
 }
 .ad{
-  background-color:rgb(167, 195, 159);
+ 
   /* 1 rem=16px */
+  background-color:rgb(167, 195, 159);
   width:35rem; 
-  height:35rem;
+  height:50rem;
   padding:10px;
+  margin-top: 20px;
   /* margin:20px 300px;
   
   border-radius: 10px;
@@ -90,13 +96,16 @@ p{
   padding-right: 55px;
 }
 .container{
+  height: 150vh;
   width:100vw;
-  height:100vh;
   display:flex;
   align-items: center;
   justify-content: center;
+  overflow-x: hidden;
 }
 h2{
   color:antiquewhite;
+  overflow-y: scroll;
+  height: 100px;
 }
 
